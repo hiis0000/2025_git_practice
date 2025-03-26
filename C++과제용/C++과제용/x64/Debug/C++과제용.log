@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hiis5\OneDrive\바탕 화면\2025GitPractice\C++과제용\C++과제용\main.cpp(84,40): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\hiis5\OneDrive\바탕 화면\2025GitPractice\C++과제용\C++과제용\main.cpp(84,85): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  C++과제용.vcxproj -> C:\Users\hiis5\OneDrive\바탕 화면\2025GitPractice\C++과제용\x64\Debug\C++과제용.exe
